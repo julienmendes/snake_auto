@@ -7,5 +7,5 @@ Pour cela, j'ai utilisé le Q-learning.
 J'ai realisé quatres matrices, chacune d'elles correspondant à la direction possible du serpent (haut, bas, droite, gauche).
 ces matrices sont misent a jour par la formule:
                     
-                                     ![](formula.png)
+                                     ![alt text](formula.png)
                                      
